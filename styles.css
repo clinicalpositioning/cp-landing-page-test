@@ -1,0 +1,22 @@
+/* CSS styles extracted from <style> tags */
+
+body {
+    visibility: hidden;
+}
+
+@media (min-resolution: 192dpi) {
+    :root {
+        --wp-admin-border-width-focus: 1.5px;
+    }
+}
+
+.wp-element-button {
+    cursor: pointer;
+}
+
+:root {
+    --wp--preset--font-size--normal: 16px;
+    --wp--preset--font-size--huge: 42px;
+}
+
+/* More CSS styles... */
